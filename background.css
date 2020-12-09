@@ -19,3 +19,29 @@
     background-image: url(feliz.jpg);
     background-size:contain;
     background-repeat:repeat;
+}
+#img2 {
+    margin:40px;
+    height: 30px;
+    width: 50px;
+    padding: 100px;
+    background-color: green;
+    border-style: dashed;
+    border-color: blue;
+    background-image: url(pensativo.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center
+}
+#img3 {
+    margin:40px;
+    height: 30px;
+    width: 50px;
+    padding: 100px;
+    background-color: green;
+    border-style: dotted;
+    border-color: purple;
+    background-image: url(triste.jpg);
+    background-size:contain;
+    background-repeat:repeat; 
+}
