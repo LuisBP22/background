@@ -1,0 +1,10 @@
+#contenedor {
+    background-color: red;
+    border-style: solid;
+    height: 900px;
+    width: 350px;
+}
+#titulo {
+    text-align: center;
+    border-bottom-color: black;
+    border-bottom-style:dotted;
